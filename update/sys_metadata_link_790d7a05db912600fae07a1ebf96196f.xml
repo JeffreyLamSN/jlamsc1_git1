@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5a8babbfdb4da200fae07a1ebf961979</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_marketinge_marketing_event">
+    <x_snc_marketinge_marketing_event action="INSERT_OR_UPDATE">
+        <budget>5000</budget>
+        <city>San Jose</city>
+        <end_date>2016-05-02</end_date>
+        <name>Service Catalog Demo</name>
+        <number_of_attendees_expected/>
+        <number_of_attendees_registered/>
+        <sponsor>ServiceNow</sponsor>
+        <start_date>2016-05-02</start_date>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-12 11:42:38</sys_created_on>
+        <sys_id>5a8babbfdb4da200fae07a1ebf961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-12 11:42:38</sys_updated_on>
+    </x_snc_marketinge_marketing_event>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-16 05:29:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>790d7a05db912600fae07a1ebf96196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog Demo</sys_name>
+        <sys_package display_value="MarketingE" source="x_snc_marketinge">5f42aef7db0da200fae07a1ebf9619f9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MarketingE">5f42aef7db0da200fae07a1ebf9619f9</sys_scope>
+        <sys_update_name>sys_metadata_link_790d7a05db912600fae07a1ebf96196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-16 05:29:49</sys_updated_on>
+        <tablename>x_snc_marketinge_marketing_event</tablename>
+    </sys_metadata_link>
+</record_update>

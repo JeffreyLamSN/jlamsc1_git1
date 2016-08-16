@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f08bfaffdb0da200fae07a1ebf961957</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_marketinge_marketing_event">
+    <x_snc_marketinge_marketing_event action="INSERT_OR_UPDATE">
+        <budget>2000</budget>
+        <city>Dallas</city>
+        <end_date>2016-05-16</end_date>
+        <name>Dallas LUG</name>
+        <number_of_attendees_expected/>
+        <number_of_attendees_registered/>
+        <sponsor>Dallas Partners</sponsor>
+        <start_date>2016-05-16</start_date>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-12 08:11:20</sys_created_on>
+        <sys_id>f08bfaffdb0da200fae07a1ebf961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-12 08:11:20</sys_updated_on>
+    </x_snc_marketinge_marketing_event>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-16 05:29:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3d0d7a05db912600fae07a1ebf961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dallas LUG</sys_name>
+        <sys_package display_value="MarketingE" source="x_snc_marketinge">5f42aef7db0da200fae07a1ebf9619f9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MarketingE">5f42aef7db0da200fae07a1ebf9619f9</sys_scope>
+        <sys_update_name>sys_metadata_link_3d0d7a05db912600fae07a1ebf961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-16 05:29:49</sys_updated_on>
+        <tablename>x_snc_marketinge_marketing_event</tablename>
+    </sys_metadata_link>
+</record_update>
